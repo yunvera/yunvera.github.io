@@ -1,2 +1,2 @@
-# yunvera.github.io
+# CV
 Сайт-визитка
